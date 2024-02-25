@@ -12,5 +12,6 @@ public class App
         System.out.println("Hello master 1");
         System.out.println("Hello hot-fix 2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
