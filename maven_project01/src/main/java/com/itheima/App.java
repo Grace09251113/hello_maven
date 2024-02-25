@@ -2,7 +2,6 @@ package com.itheima;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
@@ -12,5 +11,6 @@ public class App
         System.out.println("Hello hot-fix 1");
         System.out.println("Hello master 1");
         System.out.println("Hello hot-fix 2");
+        System.out.println("push test");
     }
 }
